@@ -36,4 +36,8 @@ Ensure that your Flask codebase is properly structured and functional. Place the
 Use the Fireworks framework to convert the Flask codebase into a FastAPI application. Run the following command (assuming you have Fireworks installed):
 
 ```bash
-fireworks convert flask_code/ fastapi_code/
+### 3. Deploy FastAPI to E2B Sandbox
+
+### 4. Test the Application.
+
+### 5. Feedback for correction
